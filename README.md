@@ -5,4 +5,9 @@ Papy Panel is redefining the game server industry with a revolutionary control p
 
 -Admin Login
 username: Admin
-password dev1234
+
+
+
+
+
+password: dev1234
